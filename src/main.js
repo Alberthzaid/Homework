@@ -16,6 +16,7 @@ btn_1.addEventListener('click',(e)=>{
     
 })
 
+
 btn_2.addEventListener('click', (e)=>{
     e.preventDefault()
     const text = document.querySelector('#user').value
